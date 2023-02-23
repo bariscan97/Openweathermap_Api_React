@@ -1,7 +1,7 @@
 # Openweathermap_Api_React
 <br>
 
-### Link ==> https://openweatherapireact.netlify.app/
+### Link ==> https://openweathermap-api-react.vercel.app/
 
 <br>
 <br>
